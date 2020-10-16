@@ -1,4 +1,4 @@
-# game.moonlight
+# game.moonlight-an amazing project
 
 A Moonlight client using the Kodi Game API
 
